@@ -5,7 +5,7 @@ This is the code for the Matter Temperature and Humidity sensor I build over on 
 ## Components
 * Seeed Studio Xiao nrf52820
 * Sensirion SHT41 (I2C Addr: 0x44) (Any SH4X model will work)
-* Adafruit MAX10748 Lipo Fuel Gauge (I2C Addr: 0x36)
+* Adafruit MAX17048 Lipo Fuel Gauge (I2C Addr: 0x36)
 
 ## Pin Mapping
 The default I2C pins on the xiao have been remapped so that the clock and data pins (SCL and SDA) are next to the GND and 3V3 pins for convenience
