@@ -3,7 +3,7 @@
 This is the code for the Matter Temperature and Humidity sensor I build over on my YT Channel. Code is built on the Seeed Studio Xiao nrf52840 using the nrf Connect Sdk
 
 ## Components
-* Seeed Studio Xiao nrf52820
+* Seeed Studio Xiao nrf52840
 * Sensirion SHT41 (I2C Addr: 0x44) (Any SH4X model will work)
 * Adafruit MAX17048 Lipo Fuel Gauge (I2C Addr: 0x36)
 
